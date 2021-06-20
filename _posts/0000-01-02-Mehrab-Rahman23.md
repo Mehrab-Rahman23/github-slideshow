@@ -10,5 +10,5 @@
     </style>
 </head>
 <body>
-<div style="width:100px; height:auto;"><h1>Hello World!</h1></div>
+<div style="width:1000px; height:auto;"><h1>Hello World!</h1></div>
 </body>
