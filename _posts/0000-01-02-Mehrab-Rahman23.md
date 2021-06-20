@@ -1,6 +1,14 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+<!DOCTYPE html>
+<head>
+    <style>
+        h1 {
+        color: #de0000;
+        }
+        div {
+        text-allign: center;
+        }
+    </style>
+</head>
+<body>
+<div style="width:100px; height:auto;"><h1>Hello World!</h1></div>
+</body>
